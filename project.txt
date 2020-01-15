@@ -6,4 +6,8 @@ Pink
 
 Yellow
 
+Blue
+
+Red
+
 Testing a nw repository
